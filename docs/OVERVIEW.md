@@ -48,7 +48,9 @@ This system is part of a larger network. Use these linked data archives to gain 
 
 ---
 
-## 5.
+## 5. Operator Network 🌐
+
+The game thrives on shared intelligence. Operators can contribute tips, strategies, and feedback to improve the collective experience. Every insight strengthens the network and leaves a digital trace of their journey through the system.
 
 ---
 
