@@ -1,0 +1,2 @@
+# No external dependencies needed for Retro Terminal Guess.
+# Pure Python 3.12+ standard library is enough.
