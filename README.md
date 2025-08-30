@@ -140,7 +140,7 @@ Love the cyber-terminal vibes? Support the project:
 ---
 
 📅 **DATE: AUGUST 22, 2025**
-👉 For the ** full retro cyberpunk experience**, check out [docs/OVERVIEW.md](docs/OVERVIEW.md).
+👉 For the **full retro cyberpunk experience**, check out [docs/OVERVIEW.md](docs/OVERVIEW.md).
 
 ```
 
