@@ -14,8 +14,8 @@ Classic gameplay meets ASCII art, animated terminal effects, and high-score trac
   - [Usage 🕹️](#usage-️)
   - [Roadmap 🚀](#roadmap-)
   - [Documentation 📂](#documentation-)
-  - [Contributing 🤝](#contributing-)
-  - [License 📜](#license-)
+  - [Contributing 🤝🏽](#contributing-)
+  - [License 📃](#license-)
   - [Donation 💸](#donation-)
   - [Acknowledgments 🙌🏽](#acknowledgments-)
 
@@ -103,7 +103,7 @@ Hack into the system’s core intel! The full directory layout lives in [docs/ST
 
 ---
 
-## Contributing 🤝
+## Contributing 🤝🏽
 
 1. Fork the repo
 2. Create a feature branch
@@ -112,7 +112,7 @@ Hack into the system’s core intel! The full directory layout lives in [docs/ST
 
 ---
 
-## License 📜
+## License 📃
 
 Distributed under the [MIT License](LICENSE).
 
